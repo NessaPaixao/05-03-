@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 400px;
+    margin-top: 20px;
+    height: 600px;
+    background-color:darkcyan;
+}
+
+
+div h1{
+    font-size: 30pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div #nome{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+div #email{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div #confirmarEmail{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div #senha{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div #acessar{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div #genero{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
