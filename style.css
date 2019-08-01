@@ -16,6 +16,12 @@ div{
     background-color:darkcyan;
 }
 
+div p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: gold
+}
+
 
 div h1{
     font-size: 30pt;
